@@ -1,2 +1,1 @@
-# MasterChef-Jr.
-Christmas Choco Cream pop
+# Christmas Choco Cream pop
